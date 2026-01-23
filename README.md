@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This repository is designed to assist you in preparing for the AI-900 exam. Unlike other exams, this one is relatively straightforward if you thoroughly understand the content covered in the official [learning paths](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900). Utilizing practice questions helped me pass the exam on my first attempt. [Verify my certification](https://learn.microsoft.com/en-us/users/anxkhn/credentials/60e4a16a343378da).
+This repository is designed to assist you in preparing for the AI-900 exam. Unlike other exams, this one is relatively straightforward if you thoroughly understand the content covered in the official [learning paths](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900). Utilizing practice questions helped me pass the exam on my first attempt. [Verify my certification](https://learn.microsoft.com/en-us/).
 
 **Official Website:** [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals)
 
