@@ -77,8 +77,7 @@ I took CS50 AI, AI and DS as part of my academic degree and learned a lot from o
 
 ## Certificate
 
-![certificate.jpg](certificate.jpg)
-[![Verify Certification](https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=verified&logoColor=white)](https://learn.microsoft.com/en-us/users/anxkhn/credentials/60e4a16a343378da)
+
 
 ## Other Dumps
 
