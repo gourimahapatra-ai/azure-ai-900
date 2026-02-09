@@ -8,7 +8,10 @@ This repository is designed to assist you in preparing for the AI-900 exam. Unli
 
 **Official Study Material:** [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals)
 
-**Practice Tests:** [Official, Free, Recommended](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification#certification-practice-for-the-exam)
+**Practice Tests:** 
+      [Official, Free, Recommended](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification#certification-practice-for-the-exam)
+      
+      https://kaustubhsharma.com/quiz/Microsoft%20Azure%20AI-900
 
 I have been exploring a lot of resources for the AI-900 exam, especially to cram for it, and I have compiled a list of resources that I found helpful. I found banks of questions which were behind a paywall ranging from $5 to $75. I don't think it's needed. I compiled a list of questions from the web and the official practice tests myself, and I am providing it to you for free. Don't pay for any services online. You can pass this exam with the resources I have provided.
 
