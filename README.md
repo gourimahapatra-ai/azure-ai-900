@@ -105,7 +105,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/anxkhn) or [T
 ## Azure AI Services – Detailed Hierarchy with Use Cases
 
 <img width="303" height="1249" alt="image" src="https://github.com/user-attachments/assets/a4bd77bb-c9e7-49a1-b134-59e24aa27704" />
+
 <img width="317" height="1073" alt="image" src="https://github.com/user-attachments/assets/16098518-c98e-4faf-a21e-df7a53cff56c" />
+
 <img width="333" height="890" alt="image" src="https://github.com/user-attachments/assets/38f10ac6-3047-4cca-ab09-934228f662b5" />
 
 
