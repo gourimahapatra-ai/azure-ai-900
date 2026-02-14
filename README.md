@@ -98,7 +98,7 @@ I have added dumps of other entry-level certifications within this repo. Althoug
 
 If you found this repository helpful, please leave a star. 
 
-Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/anxkhn) or [Twitter](https://x.com/anxkhn) if you need any assistance.
+Feel free to reach out to me on [LinkedIn]([https://linkedin.com/in/anxkhn](https://www.linkedin.com/in/gouri-mahapatra-a1619111/)) if you need any assistance.
 
 ## Azure AI Services – Detailed Hierarchy with Use Cases
 
